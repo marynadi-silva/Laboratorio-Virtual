@@ -21,3 +21,10 @@ steps:
   test 3...... pj
   
   test karen 1
+
+string name;
+double nta;
+
+if (name=pena){
+    nta=20;
+}
