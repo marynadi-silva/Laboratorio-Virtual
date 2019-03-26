@@ -24,7 +24,7 @@ steps:
 
 string name;
 double nta;
-string HiWolrd, Pena, test
+string Hi, World, Pena, test;
 
 if (name=pena){
     nta=20;
