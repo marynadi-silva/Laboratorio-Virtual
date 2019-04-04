@@ -20,7 +20,7 @@ steps:
   
 test 3...... pj
   
-test karen 1
+:test karen 1
 
 string name;
 double nta;
