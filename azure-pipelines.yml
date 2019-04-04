@@ -18,9 +18,6 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
   
-test 3...... pj
-  
-:test karen 1
 
 string name;
 double nta;
