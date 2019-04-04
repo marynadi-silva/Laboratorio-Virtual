@@ -13,17 +13,3 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
-  
-
-string name;
-double nta;
-string Hi, World, Pena, test;
-
-if (name=pena){
-    nta=20;
-}
-test Reyes
